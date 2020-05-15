@@ -57,7 +57,8 @@ Arduino Nano 33 BLE Sense with headers
 
 ### 2.2　ボードとモジュール
 
-- [ボードとモジュール一覧](https://store.arduino.cc/usa/arduino/boards-modules)
+- [ボードとSHIELD (Getting started with the Arduino Due)](https://www.arduino.cc/en/Guide/HomePage)
+- [ボードとSHIELD (一覧)](https://store.arduino.cc/usa/arduino/boards-modules)
 
 
 <h5 style="text-align: center;">
@@ -114,7 +115,7 @@ Arduino Nano 33シリーズ
 | サイズ | 45x18mm | 45x18mm | 45x18mm |
 
 (出典：これ1冊でできる！Arduinoではじめる電子工作 超入門 改訂第4版 福田和宏著)
-*出典と[Arduinoホームページ](https://store.arduino.cc/usa/)の数値に齟齬あり
+*出典と[Arduinoホームページ](https://store.arduino.cc/usa/)の数値に齟齬あり。また、retired boardsの記載もあり。
 [参考URL：Arduinoシリーズ15種類の違い](http://ideahack.me/article/134)
 
 ### 2.3　SHIELDS
