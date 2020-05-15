@@ -13,7 +13,7 @@
 (以上　[ウィキペディア](https://ja.wikipedia.org/wiki/Arduino)　を参考に記載)
 + [SHIELDS](#23-SHIELDS) : Arduinoを拡張するための基板
 
-[Arduino Home Page](https://www.arduino.cc/)
++ Link to [Arduino Home Page](https://www.arduino.cc/)
 
 <!--
 ![image](https://store-cdn.arduino.cc/usa/catalog/product/cache/1/image/520x330/604a3538c15e081937dbfbd20aa60aad/a/0/a000066_featured_5.jpg)
